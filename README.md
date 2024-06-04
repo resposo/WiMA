@@ -1,2 +1,2 @@
-# WindowsMalwareAnalyzer-WiMA-
+# WindowsMalwareAnalyzer-WiMA
 WindowsMalwareAnalyzer(WiMA)
